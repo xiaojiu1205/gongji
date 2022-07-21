@@ -1,1 +1,1 @@
-# gongji
+This script is not powerful.
